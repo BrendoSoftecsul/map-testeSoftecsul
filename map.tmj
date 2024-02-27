@@ -2860,7 +2860,7 @@
         0,
         0,
         1,
-        0,
+        1,
         1,
         0,
         0,
@@ -12921,7 +12921,7 @@
           "y": 0
         }
       ],
-      "visible": false,
+      "visible": true,
       "id": 2,
       "x": 0,
       "y": 0
@@ -14149,7 +14149,6 @@
             0,
             0,
             0,
-            13,
             0,
             0,
             0,
@@ -14189,7 +14188,8 @@
             0,
             0,
             0,
-            20,
+            0,
+            0,
             0,
             0,
             0,
@@ -14567,7 +14567,7 @@
     {
       "columns": 16,
       "firstgid": 1,
-      "image": "map-chunk-1-cd69ce1d.png",
+      "image": "map-chunk-1-028a3b29.png",
       "imageheight": 512,
       "imagewidth": 512,
       "margin": 0,
@@ -14603,7 +14603,7 @@
     {
       "columns": 5,
       "firstgid": 257,
-      "image": "map-chunk-2-cd69ce1d.png",
+      "image": "map-chunk-2-028a3b29.png",
       "imageheight": 160,
       "imagewidth": 160,
       "margin": 0,
